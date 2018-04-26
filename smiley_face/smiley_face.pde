@@ -12,6 +12,10 @@ void setup() {
 }
 
 void draw() {
+  fill(50.10,10);
+  strokeWeight(4);
+  stroke(204,102,0);
+  
   rect(30,20,120,80); 
   rect(300,20,120,80);
   rect(550,20,120,80);
@@ -19,4 +23,6 @@ void draw() {
   text("square",45,150);
   text("square",315,150);
   text("square",560,150);
+
+ 
 }
