@@ -15,4 +15,8 @@ void draw() {
   rect(30,20,120,80); 
   rect(300,20,120,80);
   rect(550,20,120,80);
+  textSize(30);
+  text("square",45,150);
+  text("square",315,150);
+  text("square",560,150);
 }
