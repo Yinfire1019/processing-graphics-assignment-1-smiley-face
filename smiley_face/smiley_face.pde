@@ -32,9 +32,13 @@ void draw() {
   
   //draw three square
   textSize(30);
-  text("square",45,150);
-  text("square",315,150);
-  text("square",560,150);
+  
+  fill(30,150,30);
+  text("black square",45,150);
+  fill(0,150,0);
+  text("green square",315,150);
+  fill(150,0,0);
+  text("red square",545,150);
   //Label
   
   stroke(254,254,254);
