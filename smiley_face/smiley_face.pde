@@ -1,8 +1,8 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * <smiley-face>
+ * by <Fengyuan>
  * 
- * <Two sentence description of program>
+ * <create graphical output using Processing.>
  * 
  */
 
@@ -48,7 +48,7 @@ void draw() {
   //give tow eyes
   
   stroke(0,0,0);
-  strokeWeight(2);
+  strokeWeight(4);
   line(340,330,370,330);
   //draw a mouth for the face
 
